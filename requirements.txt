@@ -1,0 +1,9 @@
+# Core dependencies for the RAG workflow
+llama-index
+langgraph
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+pypdf
+
+# For displaying the graph visualization in notebooks/IPython environments
+ipython
